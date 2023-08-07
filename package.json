@@ -1,0 +1,14 @@
+{
+  "name": "1eraentregaproyectofinal-jesusrodriguez",
+  "version": "1.0.0",
+  "description": "1era entrega proyecto final Backend CoderHouse",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "author": "Jesus Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
